@@ -32,11 +32,11 @@ def main():
     if opt == '2':
     	exit("THIS SERVICE IS NOT AVAILABLE NOW!")
     if opt == '3':
-    	pak()
-    if None == '4':
+    	()
+    if opt == '4':
         os.system('xdg-open https://www.facebook.com/KHALID-CYBER-404')
-        return None
-    if None == '5':
+        khalid()
+    if opt == '5':
         os.system('xdg-open https://github.com/KHALID-404')
         return None
     if None == '6':
